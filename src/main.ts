@@ -323,7 +323,7 @@ app.innerHTML = `
         <p>Have an idea, an opportunity, or a project to discuss? Let's connect.</p>
         <div class="hero-buttons">
           <a href="mailto:bhavyagoel01102006@gmail.com" class="btn btn-primary">Email Me ↗</a>
-          <a href="https://github.com/bhavweb3" target="_blank" rel="noreferrer" class="btn btn-secondary">GitHub ↗</a>
+          <a href="https://github.com/bhavyweb3" target="_blank" rel="noreferrer" class="btn btn-secondary">GitHub ↗</a>
           <a href="https://www.linkedin.com/in/bhavya-goel-60544b364/" target="_blank" rel="noreferrer" class="btn btn-secondary">LinkedIn ↗</a>
         </div>
       </section>
