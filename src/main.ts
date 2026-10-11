@@ -252,7 +252,7 @@ app.innerHTML = `
               <h3>LandChain</h3>
               <p>A blockchain-based land registry project exploring transparent and traceable digital land records.</p>
               <div class="tech-list"><span>Blockchain</span><span>Web Development</span></div>
-              <a href="https://github.com/bhavweb3/LandChain" target="_blank" rel="noreferrer" class="text-link">Explore GitHub ↗</a>
+              <a href="https://github.com/bhavyweb3/LandChain" target="_blank" rel="noreferrer" class="text-link">Explore GitHub ↗</a>
             </div>
           </article>
 
