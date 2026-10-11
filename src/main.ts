@@ -252,7 +252,7 @@ app.innerHTML = `
               <h3>LandChain</h3>
               <p>A blockchain-based land registry project exploring transparent and traceable digital land records.</p>
               <div class="tech-list"><span>Blockchain</span><span>Web Development</span></div>
-              <a href="https://github.com/bhavweb3" target="_blank" rel="noreferrer" class="text-link">Explore GitHub ↗</a>
+              <a href="https://github.com/bhavweb3/LandChain" target="_blank" rel="noreferrer" class="text-link">Explore GitHub ↗</a>
             </div>
           </article>
 
@@ -262,7 +262,7 @@ app.innerHTML = `
               <h3>Decentralized Voting System</h3>
               <p>A blockchain-based voting project designed to improve transparency and help prevent vote tampering through smart contracts.</p>
               <div class="tech-list"><span>Solidity</span><span>Remix IDE</span><span>HTML</span><span>CSS</span><span>JavaScript</span></div>
-              <a href="https://github.com/bhavweb3" target="_blank" rel="noreferrer" class="text-link">Explore GitHub ↗</a>
+              <a href="https://github.com/bhavweb3/Decentralized-Voting-System" target="_blank" rel="noreferrer" class="text-link">Explore GitHub ↗</a>
             </div>
           </article>
         </div>
